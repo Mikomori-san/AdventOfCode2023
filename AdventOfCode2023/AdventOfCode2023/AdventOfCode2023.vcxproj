@@ -129,10 +129,14 @@
   <ItemGroup>
     <ClCompile Include="01\D1_One.cpp" />
     <ClCompile Include="01\D1_Two.cpp" />
+    <ClCompile Include="02\D2_One.cpp" />
+    <ClCompile Include="02\D2_Two.cpp" />
     <ClCompile Include="AdventOfCode2023.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="01\D1_Two.h" />
+    <ClInclude Include="02\D2_One.h" />
+    <ClInclude Include="02\D2_Two.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="DayIncludes.h" />
     <ClInclude Include="01\D1_One.h" />
@@ -140,6 +144,8 @@
   <ItemGroup>
     <Text Include="Input\D1\01.txt" />
     <Text Include="Input\D1\02.txt" />
+    <Text Include="Input\D2\01.txt" />
+    <Text Include="Input\D2\02.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
