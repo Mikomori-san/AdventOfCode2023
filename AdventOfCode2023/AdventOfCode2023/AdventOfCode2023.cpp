@@ -8,4 +8,6 @@ int main()
     D2_Two::main();
     D3_One::main();
     D3_Two::main();
+    D4_One::main();
+    D4_Two::main();
 }

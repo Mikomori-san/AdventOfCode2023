@@ -36,6 +36,12 @@
     <ClCompile Include="03\D3_Two.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="04\D4_One.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="04\D4_Two.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="01\D1_One.h">
@@ -62,6 +68,12 @@
     <ClInclude Include="03\D3_Two.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="04\D4_One.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="04\D4_Two.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Input\D1\01.txt" />
@@ -70,5 +82,7 @@
     <Text Include="Input\D2\02.txt" />
     <Text Include="Input\D3\01.txt" />
     <Text Include="Input\D3\02.txt" />
+    <Text Include="Input\D4\01.txt" />
+    <Text Include="Input\D4\02.txt" />
   </ItemGroup>
 </Project>
