@@ -98,5 +98,6 @@ void D4_Two::main() {
 		sum += val.y;
 	}
 
+	file.close();
 	std::cout << "Sum: " << sum << std::endl;
 }

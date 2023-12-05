@@ -10,4 +10,5 @@ int main()
     D3_Two::main();
     D4_One::main();
     D4_Two::main();
+    D5_One::main();
 }

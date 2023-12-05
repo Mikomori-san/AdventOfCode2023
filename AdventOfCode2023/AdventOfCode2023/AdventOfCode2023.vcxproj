@@ -135,6 +135,7 @@
     <ClCompile Include="03\D3_Two.cpp" />
     <ClCompile Include="04\D4_One.cpp" />
     <ClCompile Include="04\D4_Two.cpp" />
+    <ClCompile Include="05\D5_One.cpp" />
     <ClCompile Include="AdventOfCode2023.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -145,6 +146,7 @@
     <ClInclude Include="03\D3_Two.h" />
     <ClInclude Include="04\D4_One.h" />
     <ClInclude Include="04\D4_Two.h" />
+    <ClInclude Include="05\D5_One.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="DayIncludes.h" />
     <ClInclude Include="01\D1_One.h" />
@@ -158,6 +160,8 @@
     <Text Include="Input\D3\02.txt" />
     <Text Include="Input\D4\01.txt" />
     <Text Include="Input\D4\02.txt" />
+    <Text Include="Input\D5\01.txt" />
+    <Text Include="Input\D5\Example.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
